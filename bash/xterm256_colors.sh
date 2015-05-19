@@ -4,8 +4,8 @@
 # Date: 19 may 2015
 #
 # This script creates a simple output for 256 color
-# terminals (only foreground). The palette preview
-# is available at Wikpedia:
+# terminals (only foreground). File $OFILE_COLORS contains color variables
+# usable in bash. The palette preview is available at Wikpedia:
 # http://upload.wikimedia.org/wikipedia/en/1/15/Xterm_256color_chart.svg
 
 # Output file (current directory) and text.
